@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organization for WebProgramming14021 course.
+This is the organization for the Web Programming 1402-1 course at the Sharif University of Technology.
 
 <!--
 
